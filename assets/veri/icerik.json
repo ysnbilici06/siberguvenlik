@@ -1,0 +1,1550 @@
+{
+  "ipuclari": [
+    "Bir ileti sizi acele ettiriyorsa durun. Dolandırıcıların en güçlü silahı, düşünmenize fırsat vermemektir.",
+    "Bankanız sizi arayıp parolanızı ya da telefonunuza gelen kodu istemez. İsteyen kişi banka değildir.",
+    "Her hesap için ayrı parola kullanın. Tek bir sızıntı bütün hesaplarınızı açmasın.",
+    "E-posta hesabınız diğer bütün hesaplarınızın anahtarıdır. İki adımlı doğrulamayı önce orada açın.",
+    "Bağlantıya dokunmak yerine uygulamayı ya da siteyi kendiniz açın.",
+    "Adres çubuğundaki kilit simgesi yalnızca bağlantının şifreli olduğunu söyler; sitenin dürüst olduğunu söylemez.",
+    "Güncellemeleri ertelemeyin. Çoğu güncelleme, bilinen bir güvenlik açığını kapatır.",
+    "Telefonunuza gelen doğrulama kodunu kim isterse istesin paylaşmayın.",
+    "Gerçek olamayacak kadar iyi bir teklif, büyük olasılıkla gerçek değildir.",
+    "Uygulamaları yalnızca resmî uygulama mağazasından kurun.",
+    "Tatildeyken konum paylaşmak, evinizin boş olduğunu duyurmaktır. Fotoğrafları dönünce paylaşın.",
+    "Arayan kişi sizin hakkınızda bilgi sahibi olabilir. Bu onu güvenilir yapmaz; bilgiler sızmış olabilir.",
+    "Şüphelendiğinizde telefonu kapatın ve kurumu kendi bulduğunuz numaradan arayın.",
+    "Önemli dosyalarınızın yedeğini alın. Yedeği olan dosya için fidye ödenmez.",
+    "Çocuğunuzla internette gördüklerini konuşun. Size anlatabileceğini bilen çocuk daha güvendedir."
+  ],
+  "konular": [
+    {
+      "id": "oltalama",
+      "baslik": "Oltalama",
+      "ozet": "Sahte e-posta, SMS ve aramaları tanıyın.",
+      "ikon": "olta",
+      "renk": "turuncu",
+      "metin": [
+        "Oltalama, bir dolandırıcının kendini banka, kargo şirketi ya da resmî kurum gibi göstererek sizden bilgi ya da para almaya çalışmasıdır. E-postayla, SMS'le, sosyal medya mesajıyla ya da telefonla gelebilir.",
+        "Bu iletilerin ortak yanı sizi harekete geçirmeye çalışmalarıdır: hesabınız kapanacak, kargonuz iade edilecek, borcunuz icraya verilecek. Amaç, düşünmeden bir bağlantıya dokunmanızı, bir eki açmanızı ya da bir kodu söylemenizi sağlamaktır.",
+        "Bir web adresinde asıl önemli olan, ilk eğik çizgiden (/) hemen önceki alan adıdır. \"ornekbanka.example.giris-dogrula.example\" adresi Örnek Banka'ya değil, \"giris-dogrula.example\" sitesine gider. Gönderen adı ve SMS başlığı da taklit edilebilir; tek başına güven vermez."
+      ],
+      "yap": [
+        "Bağlantıya dokunmak yerine kurumun uygulamasını ya da sitesini kendiniz açın.",
+        "Adresteki alan adını harf harf okuyun.",
+        "Beklemediğiniz ekleri, göndereni başka bir yoldan doğrulamadan açmayın.",
+        "Şüpheli iletiyi silin; kurumu kendi bildiğiniz numaradan arayın."
+      ],
+      "yapma": [
+        "Aciliyet ya da tehdit içeren iletiye hemen karşılık vermeyin.",
+        "Parola, kart bilgisi ya da doğrulama kodunu bağlantıyla açılan bir sayfaya yazmayın.",
+        "Gönderen adına ya da logoya bakarak iletinin gerçek olduğuna karar vermeyin.",
+        "Şüpheli iletideki telefon numarasını arayarak doğrulama yapmayın."
+      ]
+    },
+    {
+      "id": "parola",
+      "baslik": "Parolalar",
+      "ozet": "Güçlü, ayrı ve yönetilebilir parolalar.",
+      "ikon": "parola",
+      "renk": "turkuaz",
+      "metin": [
+        "Parolayı güçlü yapan en önemli şey uzunluğudur. Rastgele seçilmiş birkaç kelimeden oluşan uzun bir parola cümlesi, kısa ve karmaşık görünen bir paroladan hem daha güçlü hem de akılda tutması daha kolaydır.",
+        "Asıl tehlike aynı parolayı birden çok yerde kullanmaktır. Sitelerden biri sızdırıldığında saldırganlar aynı e-posta ve parolayı diğer sitelerde de dener. Her hesaba ayrı parola kullanırsanız bir sızıntı yalnızca o hesabı etkiler.",
+        "Onlarca ayrı parolayı akılda tutmak mümkün değildir; bunun için parola yöneticisi kullanılır. Parola yöneticisi her hesap için ayrı parola üretir ve şifreli olarak saklar; siz yalnızca tek bir güçlü ana parolayı hatırlarsınız."
+      ],
+      "yap": [
+        "Her hesap için ayrı parola kullanın.",
+        "Uzun parolalar ya da parola cümleleri seçin.",
+        "Bir parola yöneticisi kullanın.",
+        "Bir sitede sızıntı olduğunu duyarsanız oradaki parolayı hemen değiştirin."
+      ],
+      "yapma": [
+        "Ad, doğum tarihi, takım adı, plaka gibi tahmin edilebilir bilgiler kullanmayın.",
+        "Parolanızı kimseyle paylaşmayın; destek görevlisi de sormaz.",
+        "Parolayı sonuna rakam ekleyerek \"yenilemeyin\".",
+        "Parolaları not uygulamasına ya da e-postaya açık biçimde yazmayın."
+      ]
+    },
+    {
+      "id": "iki-adim",
+      "baslik": "İki adımlı doğrulama",
+      "ozet": "Parolanız çalınsa da hesabınız kapalı kalsın.",
+      "ikon": "iki_adim",
+      "renk": "yesil",
+      "metin": [
+        "İki adımlı doğrulamada hesaba girmek için paroladan sonra ikinci bir kanıt istenir: telefona gelen bir kod, bir doğrulama uygulamasının ürettiği kod, bir onay bildirimi ya da fiziksel bir güvenlik anahtarı.",
+        "Böylece parolanız ele geçse bile saldırganın ikinci adıma da sahip olması gerekir. En değerli hesaplardan başlayın: e-posta, banka, sosyal medya. E-posta özellikle önemlidir, çünkü diğer hesapların parolaları oradan sıfırlanır.",
+        "Doğrulama uygulamaları ve güvenlik anahtarları genellikle SMS kodundan daha güvenlidir, ama SMS kodu da hiç kullanmamaktan iyidir. Hangi yöntemi seçerseniz seçin, kodu sizden isteyen kişiye asla vermeyin."
+      ],
+      "yap": [
+        "Önce e-posta ve banka hesaplarınızda açın.",
+        "Mümkünse doğrulama uygulaması ya da güvenlik anahtarı kullanın.",
+        "Yedek kodları güvenli bir yerde saklayın.",
+        "İstemediğiniz bir kod gelirse parolanızı değiştirin."
+      ],
+      "yapma": [
+        "Doğrulama kodunu kimseye söylemeyin ya da iletmeyin.",
+        "Siz başlatmadığınız bir giriş onayına \"evet\" demeyin.",
+        "Yedek kodları telefonun içinde tek kopya olarak tutmayın."
+      ]
+    },
+    {
+      "id": "sosyal-muhendislik",
+      "yas": ["50-64", "65+"],
+      "baslik": "Sosyal mühendislik",
+      "ozet": "Sistemleri değil, insanları hedef alan kandırmacalar.",
+      "ikon": "kisi",
+      "renk": "mor",
+      "metin": [
+        "Sosyal mühendislik, teknik bir açık yerine insanın güvenini, korkusunu ya da yardımseverliğini kullanarak bilgi ve erişim elde etmektir. Saldırgan çoğu zaman bir şeyi kırmaz; sizden ister.",
+        "Sık kullanılan kaldıraçlar bellidir: otorite (\"savcılıktan arıyorum\"), aciliyet (\"hemen yapmazsanız\"), korku (\"hesabınız boşaltılıyor\"), kazanç (\"ödül kazandınız\") ve yardım (\"size destek olmak için arıyorum\").",
+        "Arayan kişinin adınızı, adresinizi ya da kimlik numaranızın bir kısmını bilmesi onu güvenilir yapmaz; bu bilgiler başka bir sızıntıdan gelmiş olabilir. En sağlam savunma, görüşmeyi kesip kurumu kendi bulduğunuz resmî kanaldan aramaktır."
+      ],
+      "yap": [
+        "Şüphelendiğinizde görüşmeyi nazikçe sonlandırın.",
+        "Kurumu, kendi bulduğunuz resmî numaradan siz arayın.",
+        "Para ya da bilgi isteyen tanıdığınızı bildiğiniz numaradan arayıp doğrulayın.",
+        "Kararı ertesi güne bırakın; gerçek bir iş bekleyebilir."
+      ],
+      "yapma": [
+        "\"Kimseye söylemeyin\" diyen birine uymayın.",
+        "Siz istemeden arayan \"destek\" görevlisine uzaktan erişim vermeyin.",
+        "Arayanın sizin hakkınızda bilgi sahibi olmasını kimlik kanıtı saymayın.",
+        "Baskı altında para göndermeyin."
+      ]
+    },
+    {
+      "id": "sosyal-medya",
+      "yas": ["genc", "18-29"],
+      "baslik": "Sosyal medya ve gizlilik",
+      "ozet": "Ne paylaştığınızı ve kimin gördüğünü bilin.",
+      "ikon": "sosyal",
+      "renk": "pembe",
+      "metin": [
+        "Sosyal medyada paylaştıklarınız bir araya getirildiğinde hakkınızda çok şey söyler: nerede oturduğunuz, nerede çalıştığınız, ne zaman evde olmadığınız, çocuğunuzun hangi okula gittiği. Dolandırıcılar inandırıcı bir hikâye kurmak için bu bilgileri kullanır.",
+        "Bir paylaşımı sildiğinizde tümüyle yok olduğunu varsayamazsınız; başkaları kaydetmiş ya da ekran görüntüsü almış olabilir. Bu yüzden asıl denetim, paylaşmadan önceki andadır.",
+        "Hesap ele geçirme çoğu zaman bir arkadaşınızın çalınmış hesabından gelen mesajla başlar. Tanıdığınız birinden gelse bile para isteyen ya da bağlantı gönderen mesajı başka bir yoldan doğrulayın."
+      ],
+      "yap": [
+        "Gizlilik ayarlarını düzenli olarak gözden geçirin.",
+        "Tatil fotoğraflarını döndükten sonra paylaşın.",
+        "Para isteyen arkadaşınızı arayarak doğrulayın.",
+        "Hesaba bağlı uygulamaları ara sıra denetleyip kullanmadıklarınızı kaldırın."
+      ],
+      "yapma": [
+        "Kimlik, biniş kartı, bilet ya da kart fotoğrafı paylaşmayın.",
+        "Tanımadığınız kişilerin arkadaşlık isteklerini kabul etmeyin.",
+        "\"Profilinize kim baktı\" gibi vaatlerle giriş bilgisi isteyen uygulamalara izin vermeyin.",
+        "Başkalarının, özellikle çocukların fotoğraflarını izinsiz paylaşmayın."
+      ]
+    },
+    {
+      "id": "alisveris",
+      "yas": ["18-29", "30-49"],
+      "baslik": "Güvenli alışveriş ve bankacılık",
+      "ozet": "İnternetten öderken paranızı koruyun.",
+      "ikon": "alisveris",
+      "renk": "mavi",
+      "metin": [
+        "Sahte alışveriş siteleri gerçek mağazalara çok benzeyebilir. Piyasanın çok altında fiyatlar, yalnızca havale ya da EFT ile ödeme ve ulaşılamayan iletişim bilgileri en sık görülen uyarı işaretleridir.",
+        "Adres çubuğundaki kilit simgesi yalnızca sizinle site arasındaki bağlantının şifreli olduğunu gösterir. Sahte siteler de kilit simgesi taşıyabilir; sitenin kime ait olduğunu alan adı söyler.",
+        "Kartla ödeme, bir sorun çıktığında bankanıza itiraz etme olanağı verir; havaleyle gönderilen parayı geri almak çok daha zordur. Sanal kart ve işlem bildirimleri, kart bilgileriniz ele geçse bile zararı sınırlar."
+      ],
+      "yap": [
+        "Tanımadığınız satıcıyı alışverişten önce araştırın.",
+        "İnternet alışverişinde limiti sınırlı bir sanal kart kullanın.",
+        "Kart ve hesap hareketleri için anlık bildirimleri açın.",
+        "Tanımadığınız bir işlem görürseniz hemen bankanızı arayın."
+      ],
+      "yapma": [
+        "Görmediğiniz ürün için kapora göndermeyin.",
+        "Satıcı istedi diye ödemeyi platformun dışında yapmayın.",
+        "Kart bilgilerinizi mesajla ya da telefonda paylaşmayın.",
+        "Kilit simgesini sitenin güvenilir olduğuna kanıt saymayın."
+      ]
+    },
+    {
+      "id": "wifi",
+      "baslik": "Wi-Fi ve ağ güvenliği",
+      "ozet": "Ortak ağlarda ve evde bağlantınızı koruyun.",
+      "ikon": "wifi",
+      "renk": "lacivert",
+      "metin": [
+        "Kafe, otel ya da havalimanındaki ortak Wi-Fi ağlarında aynı ağa bağlı başka kişiler de vardır. Kötü niyetli biri gerçek ağla aynı adı taşıyan sahte bir ağ kurup bağlananların trafiğini izlemeye çalışabilir.",
+        "Ortak ağda bankacılık gibi hassas işlemler için mobil veriyi tercih edin. VPN, cihazınızla VPN sunucusu arasındaki trafiği şifreler ve ortak ağlarda işe yarar; ancak sahte bir siteye kendi elinizle bilgi girmenize engel olmaz.",
+        "Evdeki modem de bir güvenlik kapısıdır. Fabrika çıkışı yönetici parolası çoğu zaman herkesçe bilinir; onu ve Wi-Fi parolasını değiştirmek, modemin yazılımını güncel tutmak ilk yapılacak işlerdir."
+      ],
+      "yap": [
+        "Ağın adını bir çalışana sorarak doğrulayın.",
+        "Hassas işlemlerde mobil veri kullanın.",
+        "Modemin yönetici parolasını ve Wi-Fi parolasını değiştirin.",
+        "Kullanmadığınız kayıtlı ağları telefonunuzdan silin."
+      ],
+      "yapma": [
+        "Ortak ağda bankacılık işlemi yapmayın.",
+        "Parolasız ağlara otomatik bağlanmayı açık bırakmayın.",
+        "Wi-Fi parolanızı herkesle paylaşmayın; misafir ağı kullanın.",
+        "Bağlanırken çıkan sertifika uyarılarını geçmeyin."
+      ]
+    },
+    {
+      "id": "telefon",
+      "yas": ["genc", "18-29"],
+      "baslik": "Telefon güvenliği",
+      "ozet": "Cebinizdeki cihaz, hesaplarınızın anahtarıdır.",
+      "ikon": "telefon",
+      "renk": "kahve",
+      "metin": [
+        "Telefonunuzda e-postanız, bankanız, fotoğraflarınız ve doğrulama kodlarınız bulunur. Kaybolduğunda ya da zararlı bir uygulama kurulduğunda zarar, bir bilgisayarınkinden büyük olabilir.",
+        "Zararlı uygulamalar çoğunlukla resmî mağazaların dışından, SMS ya da mesajla gönderilen bağlantılardan gelir. Bir uygulamanın istediği izinler yaptığı işle uyumlu olmalıdır: bir el feneri uygulamasının rehberinize ya da mesajlarınıza ihtiyacı yoktur.",
+        "Ekran kilidi, güncel yazılım, düzenli yedek ve uzaktan bulma ve silme özelliği birlikte, telefonun çalınmasını bir felaketten bir sıkıntıya indirir."
+      ],
+      "yap": [
+        "Ekran kilidi kullanın.",
+        "İşletim sistemini ve uygulamaları güncel tutun.",
+        "Uzaktan bulma ve silme özelliğini açın.",
+        "Düzenli yedek alın."
+      ],
+      "yapma": [
+        "Mesajla gelen bağlantıdan uygulama kurmayın.",
+        "İşiyle ilgisi olmayan izinleri isteyen uygulamaya izin vermeyin.",
+        "Telefonu sıfırlamadan satmayın ya da başkasına vermeyin.",
+        "Güncellemeleri sürekli ertelemeyin."
+      ]
+    },
+    {
+      "id": "dolandiricilik",
+      "yas": ["50-64", "65+"],
+      "baslik": "Yaygın dolandırıcılıklar",
+      "ozet": "En sık karşılaşılan senaryolar ve ortak işaretleri.",
+      "ikon": "uyari",
+      "renk": "kirmizi",
+      "metin": [
+        "Dolandırıcılık hikâyeleri değişir ama iskeleti aynı kalır: beklenmedik bir iletişim, güçlü bir duygu (korku ya da heyecan), gizlilik isteği ve hemen para ya da bilgi talebi.",
+        "Kendini polis, savcı ya da banka görevlisi olarak tanıtıp paranızı \"güvenli hesaba\" aktarmanızı isteyenler, kısa sürede kesin kazanç vaat eden yatırım grupları, kazanılmış bir ödül için önce ücret isteyenler ve görmediğiniz ürün için kapora talep eden ilan sahipleri bu iskeletin en yaygın biçimleridir. Resmî görevliler telefonda para, altın ya da kart bilgisi istemez.",
+        "Hesabınızı ya da kartınızı komisyon karşılığında başkasına kullandırmak da bir tuzaktır: hesabınızdan geçen para suç geliri olabilir ve bundan siz de sorumlu tutulabilirsiniz. Bir kez mağdur olanları \"paranızı geri alırız\" diyerek ikinci kez dolandırmaya çalışanlara da dikkat edin."
+      ],
+      "yap": [
+        "Beklenmedik para talebinde durun ve bir yakınınıza danışın.",
+        "Yatırım teklifi yapan kuruluşun yetkili olup olmadığını resmî kaynaktan denetleyin.",
+        "Hesabınıza yanlışlıkla para geldiğini söyleyen olursa bankanıza bildirin; iadeyi banka yapsın.",
+        "Dolandırıldığınızı fark ederseniz hemen bankanızı arayın ve şikâyette bulunun."
+      ],
+      "yapma": [
+        "Telefonda kendini resmî görevli olarak tanıtan kişinin isteğiyle para aktarmayın.",
+        "Kazanç garantisi veren tekliflere inanmayın.",
+        "Ödül ya da kredi için önceden ücret ödemeyin.",
+        "Banka hesabınızı ya da kartınızı başkasına kullandırmayın."
+      ]
+    },
+    {
+      "id": "cocuk",
+      "yas": ["30-49", "50-64"],
+      "baslik": "Çocuklar ve internet",
+      "ozet": "Çocuğunuzu yasakla değil, bilgiyle koruyun.",
+      "ikon": "cocuk",
+      "renk": "yesil",
+      "metin": [
+        "Çocuğu internette koruyan en güçlü şey, başına bir şey geldiğinde size anlatabileceğini bilmesidir. Hata yaptığında cezalandırılacağını düşünen çocuk bir dahaki sefere saklar.",
+        "Ebeveyn denetimi araçları içerik süzmek, ekran süresini sınırlamak ve satın almaları onaya bağlamak için yararlıdır, ama tek başına yetmez. Yaşa uygun kuralları birlikte koymak ve nedenini anlatmak gerekir.",
+        "Çocuğunuza tanımadığı kişilere fotoğraf, adres, okul adı gibi bilgileri vermemesi gerektiğini; biri onu rahatsız ederse ya da sır tutmasını isterse bunun kendi suçu olmadığını ve size söylemesi gerektiğini anlatın."
+      ],
+      "yap": [
+        "Çocuğunuzla internette gördüklerini düzenli olarak konuşun.",
+        "Yaşa uygun kuralları birlikte belirleyin.",
+        "Ebeveyn denetimi ve gizlilik ayarlarını birlikte yapın.",
+        "Zorbalık ya da taciz durumunda kanıtları saklayın, hesabı engelleyin ve bildirin."
+      ],
+      "yapma": [
+        "Anlattığı için çocuğu cezalandırmayın.",
+        "Çocuğun okul formalı, konum bilgili fotoğraflarını herkese açık paylaşmayın.",
+        "Yalnızca yasaklara ve filtrelere güvenmeyin.",
+        "Sorunu küçümsemeyin; çocuğun rahatsızlığını ciddiye alın."
+      ]
+    }
+  ],
+  "sorular": [
+    {
+      "id": "oltalama-1",
+      "konu": "oltalama",
+      "soru": "Bankanızdan geldiğini söyleyen bir SMS, hesabınızın kapatılacağını bildirip bir bağlantıya dokunmanızı istiyor. En doğru davranış hangisidir?",
+      "secenekler": [
+        "Bağlantıya dokunup bilgileri güncellemek",
+        "Bağlantıya dokunmadan bankanın uygulamasını kendim açıp denetlemek",
+        "SMS'teki numarayı arayıp sormak",
+        "İletiyi yakınlarıma iletip fikirlerini almak"
+      ],
+      "dogru": 1,
+      "aciklama": "İletideki bağlantı ve numara dolandırıcıya ait olabilir. Güvenli yol, kuruma kendi bildiğiniz kanaldan ulaşmaktır."
+    },
+    {
+      "id": "oltalama-2",
+      "konu": "oltalama",
+      "soru": "Oltalama iletilerinin en tipik özelliği hangisidir?",
+      "secenekler": [
+        "Acele ettirmesi ve korkutması",
+        "Uzun olması",
+        "Hafta sonu gelmesi",
+        "Resim içermemesi"
+      ],
+      "dogru": 0,
+      "aciklama": "Amaç, düşünmeden hareket etmenizi sağlamaktır. Aciliyet ve tehdit en sık kullanılan araçlardır."
+    },
+    {
+      "id": "oltalama-3",
+      "konu": "oltalama",
+      "soru": "Bir e-postada gönderen adı olarak bankanızın adı görünüyor. Bu neyi kanıtlar?",
+      "secenekler": [
+        "E-postanın bankadan geldiğini",
+        "E-postanın en azından bankanın bilgisi dahilinde olduğunu",
+        "Tek başına hiçbir şeyi; görünen ad istenildiği gibi yazılabilir",
+        "E-postanın güvenli bir sunucudan geçtiğini"
+      ],
+      "dogru": 2,
+      "aciklama": "Görünen ad serbestçe yazılabilir. Asıl bakılması gereken e-posta adresindeki alan adıdır; o da tek başına yeterli değildir."
+    },
+    {
+      "id": "oltalama-4",
+      "konu": "oltalama",
+      "soru": "Bir bağlantının hangi siteye gittiğini anlamak için adresin neresine bakılır?",
+      "secenekler": [
+        "Adresin en başındaki kelimeye",
+        "Adresin sonundaki sayfa adına",
+        "Kilit simgesinin olup olmadığına",
+        "İlk eğik çizgiden (/) hemen önceki alan adına"
+      ],
+      "dogru": 3,
+      "aciklama": "Asıl alan adı, ilk eğik çizgiden önceki son bölümdür. Önüne tanıdık bir ad eklenmesi siteyi o kuruma ait yapmaz."
+    },
+    {
+      "id": "oltalama-5",
+      "konu": "oltalama",
+      "soru": "Banka görevlisi olduğunu söyleyen biri arayıp telefonunuza gelen kodu söylemenizi istiyor. Ne yaparsınız?",
+      "secenekler": [
+        "Kodu söylerim; görevli zaten hesabımı görüyor",
+        "Kodu söylemem, görüşmeyi kapatıp bankayı kendim ararım",
+        "Kodun yalnızca ilk üç hanesini söylerim",
+        "Önce görevlinin sicil numarasını sorar, sonra söylerim"
+      ],
+      "dogru": 1,
+      "aciklama": "Banka çalışanı sizden doğrulama kodu istemez. Kod, o anda sizin adınıza yapılmak istenen bir işlemin onayıdır."
+    },
+    {
+      "id": "oltalama-6",
+      "konu": "oltalama",
+      "soru": "Beklemediğiniz bir e-postada sıkıştırılmış bir \"fatura\" eki var. Ne yaparsınız?",
+      "secenekler": [
+        "Eki açıp hangi faturaya ait olduğuna bakarım",
+        "Eki açmam; göndereni başka bir yoldan doğrularım",
+        "Eki telefonumda açarım, orada zarar vermez",
+        "E-postayı yanıtlayıp açıklama isterim"
+      ],
+      "dogru": 1,
+      "aciklama": "Beklenmedik ekler zararlı yazılım taşımanın yaygın yoludur. Faturanızı kurumun kendi sitesinden ya da uygulamasından görebilirsiniz."
+    },
+    {
+      "id": "parola-1",
+      "konu": "parola",
+      "soru": "Aşağıdakilerden hangisi en güçlü paroladır?",
+      "secenekler": [
+        "Doğduğunuz şehir ve plaka kodu",
+        "Bilinen bir kelimenin harfleri simgeyle değiştirilmiş hâli",
+        "Rastgele seçilmiş beş altı kelimeden oluşan uzun bir cümle",
+        "Doğum tarihiniz"
+      ],
+      "dogru": 2,
+      "aciklama": "Uzunluk ve rastgelelik gücü belirler. Harfleri simgeyle değiştirmek bilinen bir kalıptır ve çok az güç katar."
+    },
+    {
+      "id": "parola-2",
+      "konu": "parola",
+      "soru": "Aynı parolayı birden çok sitede kullanmanın asıl tehlikesi nedir?",
+      "secenekler": [
+        "Siteler bunu fark edip hesabı kapatır",
+        "Bir site sızdırılırsa diğer hesaplarınız da açılabilir",
+        "Parola daha çabuk unutulur",
+        "Giriş yapmak yavaşlar"
+      ],
+      "dogru": 1,
+      "aciklama": "Saldırganlar sızan e-posta ve parola çiftlerini başka sitelerde de dener."
+    },
+    {
+      "id": "parola-3",
+      "konu": "parola",
+      "soru": "Parola yöneticisi ne işe yarar?",
+      "secenekler": [
+        "Parolalarınızı arkadaşlarınızla paylaşmanızı sağlar",
+        "Tüm hesaplarınıza aynı parolayı atar",
+        "Her hesap için ayrı parola üretir ve şifreli saklar",
+        "Parola gerektiren siteleri engeller"
+      ],
+      "dogru": 2,
+      "aciklama": "Siz yalnızca güçlü bir ana parolayı hatırlarsınız; gerisini yönetici üretir ve saklar."
+    },
+    {
+      "id": "parola-4",
+      "konu": "parola",
+      "soru": "Parolanızı kiminle paylaşabilirsiniz?",
+      "secenekler": [
+        "Kimseyle",
+        "Bankanın çağrı merkezi görevlisiyle",
+        "Teknik destek görevlisiyle",
+        "İş yerindeki yöneticimle"
+      ],
+      "dogru": 0,
+      "aciklama": "Gerçek bir görevlinin parolanıza ihtiyacı yoktur. Parolayı isteyen kişi, kim olduğunu söylerse söylesin, şüphelidir."
+    },
+    {
+      "id": "parola-5",
+      "konu": "parola",
+      "soru": "Hesabınızın olduğu bir sitede veri sızıntısı yaşandığını öğrendiniz. Ne yaparsınız?",
+      "secenekler": [
+        "Bir şey yapmam; parolam zaten güçlü",
+        "Hesabı kullanmayı bırakırım, parolaya dokunmam",
+        "O sitedeki parolayı ve aynı parolayı kullandığım diğer hesaplardakini değiştiririm",
+        "Yalnızca kullanıcı adımı değiştiririm"
+      ],
+      "dogru": 2,
+      "aciklama": "Sızan parola artık bilinen bir paroladır; kullanıldığı her yerde değiştirilmelidir."
+    },
+    {
+      "id": "parola-6",
+      "konu": "parola",
+      "soru": "Bir parolayı güçlendirmenin en etkili yolu hangisidir?",
+      "secenekler": [
+        "Sonuna bir rakam eklemek",
+        "İlk harfini büyük yazmak",
+        "Bir harfini simgeyle değiştirmek",
+        "Uzunluğunu artırmak"
+      ],
+      "dogru": 3,
+      "aciklama": "Eklenen her karakter denenecek olasılıkları katlar. Küçük süslemeler ise bilinen kalıplardır."
+    },
+    {
+      "id": "iki-adim-1",
+      "konu": "iki-adim",
+      "soru": "İki adımlı doğrulama nedir?",
+      "secenekler": [
+        "Parolayı iki kez yazmak",
+        "Paroladan sonra ikinci bir kanıt istenmesi",
+        "İki ayrı parola kullanmak",
+        "Hesaba iki cihazdan aynı anda girmek"
+      ],
+      "dogru": 1,
+      "aciklama": "İkinci kanıt bir kod, bir uygulama onayı ya da bir güvenlik anahtarı olabilir."
+    },
+    {
+      "id": "iki-adim-2",
+      "konu": "iki-adim",
+      "soru": "Parolanız çalınsa bile iki adımlı doğrulama neden işe yarar?",
+      "secenekler": [
+        "Parolayı kendiliğinden değiştirir",
+        "Saldırganı polise bildirir",
+        "Saldırganın ikinci adıma da sahip olması gerekir",
+        "Hesabı kalıcı olarak kilitler"
+      ],
+      "dogru": 2,
+      "aciklama": "Parola tek başına yetmez; telefonunuz ya da anahtarınız sizde olduğu sürece hesap kapalı kalır."
+    },
+    {
+      "id": "iki-adim-3",
+      "konu": "iki-adim",
+      "soru": "Hangisi genellikle SMS kodundan daha güvenli bir ikinci adımdır?",
+      "secenekler": [
+        "Doğrulama uygulaması ya da güvenlik anahtarı",
+        "E-postaya gönderilen parola",
+        "Güvenlik sorusu",
+        "Daha uzun bir kullanıcı adı"
+      ],
+      "dogru": 0,
+      "aciklama": "Uygulama ve anahtar, telefon hattına bağlı değildir. Yine de SMS kodu, ikinci adımı hiç kullanmamaktan iyidir."
+    },
+    {
+      "id": "iki-adim-4",
+      "konu": "iki-adim",
+      "soru": "Hiçbir yere giriş yapmadığınız hâlde telefonunuza doğrulama kodu geldi. Bu ne anlama gelebilir?",
+      "secenekler": [
+        "Sistem hatası; önemsemem",
+        "Biri parolamı biliyor olabilir; kodu kimseye vermem ve parolamı değiştiririm",
+        "Hesabım kapatılmış",
+        "Kodu gönderen numaraya geri yazmalıyım"
+      ],
+      "dogru": 1,
+      "aciklama": "Kod, biri parolanızla giriş yapmayı denediğinde gelir. İkinci adım sizi korumuştur; şimdi parolayı değiştirme zamanı."
+    },
+    {
+      "id": "iki-adim-5",
+      "konu": "iki-adim",
+      "soru": "Yedek kodlar ne işe yarar?",
+      "secenekler": [
+        "Parolayı unutunca yenisini üretir",
+        "Hesabı başkasıyla paylaşmayı sağlar",
+        "Telefonunuza ulaşamadığınızda hesaba girmenizi sağlar",
+        "Girişi hızlandırır"
+      ],
+      "dogru": 2,
+      "aciklama": "Telefon kaybolduğunda ya da bozulduğunda hesaba dönmenin yoludur; güvenli ve telefondan ayrı bir yerde saklanmalıdır."
+    },
+    {
+      "id": "iki-adim-6",
+      "konu": "iki-adim",
+      "soru": "Bir tanıdığınız \"yanlışlıkla senin numarana bir kod gönderdim, bana iletir misin\" diye yazıyor. Ne yaparsınız?",
+      "secenekler": [
+        "Kodu iletirim; tanıdığım biri",
+        "Kodu iletmem; bu, hesabımı ele geçirme girişimidir",
+        "Kodun yarısını iletirim",
+        "Kodu sosyal medyada paylaşırım"
+      ],
+      "dogru": 1,
+      "aciklama": "Telefonunuza gelen kod sizin hesabınız içindir. Mesajı gönderen tanıdığınızın hesabı da büyük olasılıkla çalınmıştır."
+    },
+    {
+      "id": "sosyal-muhendislik-1",
+      "konu": "sosyal-muhendislik",
+      "soru": "Sosyal mühendislik nedir?",
+      "secenekler": [
+        "Sosyal medya hesaplarını yönetme işi",
+        "İnsanları kandırarak bilgi ya da erişim elde etme",
+        "Bir ağ kurma yöntemi",
+        "Parola üretme tekniği"
+      ],
+      "dogru": 1,
+      "aciklama": "Hedef sistemler değil insanlardır; güven, korku ve yardımseverlik kullanılır."
+    },
+    {
+      "id": "sosyal-muhendislik-2",
+      "konu": "sosyal-muhendislik",
+      "soru": "Dolandırıcılar neden hep acele ettirir?",
+      "secenekler": [
+        "Kendi zamanları kısıtlı olduğu için",
+        "Yasal bir zorunluluk olduğu için",
+        "Düşünmenize ve doğrulamanıza zaman kalmasın diye",
+        "Hattın kesilmesinden korktukları için"
+      ],
+      "dogru": 2,
+      "aciklama": "Biraz düşünmek ya da birine danışmak çoğu dolandırıcılığı bozar. Aciliyet bunu önlemek içindir."
+    },
+    {
+      "id": "sosyal-muhendislik-3",
+      "konu": "sosyal-muhendislik",
+      "soru": "Yöneticiniz olduğunu söyleyen biri, tanımadığınız bir numaradan yazıp acil para göndermenizi istiyor. Ne yaparsınız?",
+      "secenekler": [
+        "Hemen gönderirim; yöneticimi bekletmem",
+        "Yöneticimi bildiğim numarasından arayıp doğrularım",
+        "Mesaja yanıt verip kimlik sorarım",
+        "İstenen tutarın yarısını gönderirim"
+      ],
+      "dogru": 1,
+      "aciklama": "Doğrulamayı, mesajın geldiği kanaldan değil, sizin bildiğiniz kanaldan yapın."
+    },
+    {
+      "id": "sosyal-muhendislik-4",
+      "konu": "sosyal-muhendislik",
+      "soru": "Arayan kişi adınızı, adresinizi ve kimlik numaranızın bir kısmını biliyor. Bu neyi gösterir?",
+      "secenekler": [
+        "Gerçekten söylediği kurumdan aradığını",
+        "Resmî bir görevli olduğunu",
+        "Güvenilir olduğunu göstermez; bu bilgiler sızmış olabilir",
+        "Hesabımın zaten ele geçirildiğini"
+      ],
+      "dogru": 2,
+      "aciklama": "Kişisel bilgiler çeşitli sızıntılarla dolandırıcıların eline geçebilir ve inandırıcılık için kullanılır."
+    },
+    {
+      "id": "sosyal-muhendislik-5",
+      "konu": "sosyal-muhendislik",
+      "soru": "Siz aramadığınız hâlde \"teknik destek\" olduğunu söyleyen biri, cihazınıza uzaktan erişim programı kurmanızı istiyor. Ne yaparsınız?",
+      "secenekler": [
+        "Kurarım; sorunu çözmeye çalışıyor",
+        "Kurarım ama ekranı izlerim",
+        "Kurmam; ben destek istemedim",
+        "Kurup iş bitince kaldırırım"
+      ],
+      "dogru": 2,
+      "aciklama": "Uzaktan erişim, karşı tarafa cihazınızda sizin yapabildiğiniz her şeyi yapma olanağı verir."
+    },
+    {
+      "id": "sosyal-muhendislik-6",
+      "konu": "sosyal-muhendislik",
+      "soru": "Bir aramadan şüphelendiğinizde en sağlam yöntem hangisidir?",
+      "secenekler": [
+        "Arayana kimlik bilgilerini sormak",
+        "Görüşmeyi kesip kurumu kendi bulduğum resmî numaradan aramak",
+        "Arayan numarayı internette aratmak",
+        "Görüşmeyi uzatıp açık vermesini beklemek"
+      ],
+      "dogru": 1,
+      "aciklama": "Dolandırıcı her soruya hazır bir yanıt verebilir. Güvenilir olan tek şey, sizin başlattığınız görüşmedir."
+    },
+    {
+      "id": "sosyal-medya-1",
+      "konu": "sosyal-medya",
+      "soru": "Hangisini herkese açık paylaşmak en risklidir?",
+      "secenekler": [
+        "Bir manzara fotoğrafı",
+        "Biniş kartınızın ya da kimliğinizin fotoğrafı",
+        "Okuduğunuz kitabın adı",
+        "Sevdiğiniz bir şarkı"
+      ],
+      "dogru": 1,
+      "aciklama": "Biniş kartı ve kimlik üzerindeki bilgiler ve kodlar, sizin adınıza işlem yapmak için kullanılabilir."
+    },
+    {
+      "id": "sosyal-medya-2",
+      "konu": "sosyal-medya",
+      "soru": "Tatildeyken anlık konum paylaşmanın riski nedir?",
+      "secenekler": [
+        "Fotoğrafın kalitesi düşer",
+        "Hesap askıya alınır",
+        "Evinizin boş olduğunu herkese duyurur",
+        "Telefonun pili çabuk biter"
+      ],
+      "dogru": 2,
+      "aciklama": "Paylaşımları eve döndükten sonra yapmak aynı keyfi verir, riski taşımaz."
+    },
+    {
+      "id": "sosyal-medya-3",
+      "konu": "sosyal-medya",
+      "soru": "Tanımadığınız biri arkadaşlık isteği gönderiyor ve hemen ardından bir bağlantı yolluyor. Ne yaparsınız?",
+      "secenekler": [
+        "Bağlantıyı açıp ne olduğuna bakarım",
+        "İsteği kabul etmem, bağlantıya dokunmam",
+        "Bağlantıyı arkadaşlarıma iletirim",
+        "Kim olduğunu sormak için bağlantıdaki formu doldururum"
+      ],
+      "dogru": 1,
+      "aciklama": "Tanımadığınız kişilerden gelen bağlantılar, hesap bilgilerini çalmak için kullanılan sahte giriş sayfalarına götürebilir."
+    },
+    {
+      "id": "sosyal-medya-4",
+      "konu": "sosyal-medya",
+      "soru": "Bir arkadaşınızın hesabından \"acil paraya ihtiyacım var\" mesajı geldi. Ne yaparsınız?",
+      "secenekler": [
+        "Hemen gönderirim",
+        "Mesajla hesap numarasını isterim",
+        "Arkadaşımı arayarak doğrularım; hesabı çalınmış olabilir",
+        "Mesajı görmezden gelir, kimseye söylemem"
+      ],
+      "dogru": 2,
+      "aciklama": "Çalınan hesaplar, sahibinin arkadaşlarından para istemek için kullanılır. Arkadaşınıza da hesabının durumunu haber vermiş olursunuz."
+    },
+    {
+      "id": "sosyal-medya-5",
+      "konu": "sosyal-medya",
+      "soru": "\"Profilinize kim baktı\" vaadiyle giriş bilgilerinizi isteyen bir uygulama için hangisi doğrudur?",
+      "secenekler": [
+        "Güvenlidir; çok kişi kullanıyor",
+        "Amacı çoğunlukla hesap bilgilerinizi ele geçirmektir",
+        "Yalnızca reklam gösterir, zararı yoktur",
+        "Resmî bir özelliktir"
+      ],
+      "dogru": 1,
+      "aciklama": "Kullanıcı adı ve parolanızı başka bir uygulamaya vermek, hesabın anahtarını vermektir."
+    },
+    {
+      "id": "sosyal-medya-6",
+      "konu": "sosyal-medya",
+      "soru": "Paylaştığınız bir fotoğrafı sildiniz. Hangisi doğrudur?",
+      "secenekler": [
+        "Fotoğraf internetten tümüyle silinmiştir",
+        "Fotoğrafı artık kimse göremez",
+        "Başkaları kaydetmiş olabilir; tümüyle silindiği varsayılamaz",
+        "Fotoğraf yalnızca arkadaşlarımda kalır"
+      ],
+      "dogru": 2,
+      "aciklama": "Ekran görüntüsü ve kaydetme sizin denetiminizde değildir. Asıl karar, paylaşmadan önce verilir."
+    },
+    {
+      "id": "alisveris-1",
+      "konu": "alisveris",
+      "soru": "Adres çubuğundaki kilit simgesi ne anlama gelir?",
+      "secenekler": [
+        "Sitenin dürüst ve güvenilir olduğu",
+        "Sitenin devlet tarafından onaylandığı",
+        "Sizinle site arasındaki bağlantının şifreli olduğu",
+        "Sitede virüs bulunmadığı"
+      ],
+      "dogru": 2,
+      "aciklama": "Sahte siteler de kilit simgesi taşıyabilir. Sitenin kime ait olduğunu alan adı söyler."
+    },
+    {
+      "id": "alisveris-2",
+      "konu": "alisveris",
+      "soru": "Bir site ürünleri piyasanın çok altında satıyor ve yalnızca havale kabul ediyor. Bu neyi düşündürür?",
+      "secenekler": [
+        "Kampanya dönemidir",
+        "Büyük olasılıkla dolandırıcılıktır",
+        "Site yeni açılmıştır",
+        "Ürünler ikinci eldir"
+      ],
+      "dogru": 1,
+      "aciklama": "Çok düşük fiyat ve geri alınması zor ödeme yöntemi birlikte, sahte mağazaların en belirgin işaretidir."
+    },
+    {
+      "id": "alisveris-3",
+      "konu": "alisveris",
+      "soru": "İnternet alışverişinde sanal kart neden önerilir?",
+      "secenekler": [
+        "Daha çok puan kazandırdığı için",
+        "Limiti sınırlı olduğu ve asıl kart bilgisi açığa çıkmadığı için",
+        "Ödemeyi hızlandırdığı için",
+        "Taksit sayısını artırdığı için"
+      ],
+      "dogru": 1,
+      "aciklama": "Bilgiler ele geçse bile zarar, sanal karta tanımladığınız limitle sınırlı kalır."
+    },
+    {
+      "id": "alisveris-4",
+      "konu": "alisveris",
+      "soru": "Bir satıcı, ödemeyi alışveriş platformunun dışında yapmanızı istiyor. Sonucu ne olur?",
+      "secenekler": [
+        "Ürün daha çabuk gelir",
+        "Platformun alıcı korumasını kaybedersiniz",
+        "Kargo ücreti düşer",
+        "Bir şey değişmez"
+      ],
+      "dogru": 1,
+      "aciklama": "Platform dışı ödemede bir sorun çıktığında başvurabileceğiniz bir güvence kalmaz."
+    },
+    {
+      "id": "alisveris-5",
+      "konu": "alisveris",
+      "soru": "Kart hareketlerinizde tanımadığınız bir işlem gördünüz. İlk olarak ne yaparsınız?",
+      "secenekler": [
+        "Ay sonunu beklerim",
+        "İşlemin yapıldığı siteye e-posta yazarım",
+        "Hemen bankamı arar, işleme itiraz eder ve kartı kapattırırım",
+        "Kartı bir süre kullanmam"
+      ],
+      "dogru": 2,
+      "aciklama": "Erken bildirim hem yeni işlemleri önler hem de itiraz sürecinde elinizi güçlendirir."
+    },
+    {
+      "id": "alisveris-6",
+      "konu": "alisveris",
+      "soru": "İkinci el ilanındaki satıcı, ürünü ayırmak için önce kapora göndermenizi istiyor. Ne yaparsınız?",
+      "secenekler": [
+        "Küçük bir tutar gönderirim",
+        "Ürünü görmeden para göndermem",
+        "Kimlik fotoğrafı isteyip gönderirim",
+        "Kaporayı kartla öderim"
+      ],
+      "dogru": 1,
+      "aciklama": "Kapora dolandırıcılığı çok yaygındır. Gönderilen kimlik fotoğrafı da çoğu zaman başka bir mağdura aittir."
+    },
+    {
+      "id": "wifi-1",
+      "konu": "wifi",
+      "soru": "Parolasız ortak Wi-Fi ağının riski nedir?",
+      "secenekler": [
+        "İnternet yavaş olur",
+        "Aynı ağdaki biri trafiğinizi izlemeye ya da sahte ağ kurmaya çalışabilir",
+        "Telefonun garantisi bozulur",
+        "Pil çabuk biter"
+      ],
+      "dogru": 1,
+      "aciklama": "Ortak ağda kimlerin bulunduğunu bilemezsiniz. Hassas işlemleri bu ağlarda yapmamak en güvenlisidir."
+    },
+    {
+      "id": "wifi-2",
+      "konu": "wifi",
+      "soru": "Bir kafede adı birbirine çok benzeyen iki ağ görüyorsunuz. Ne yaparsınız?",
+      "secenekler": [
+        "Sinyali güçlü olana bağlanırım",
+        "Parolasız olana bağlanırım",
+        "Bir çalışana ağın adını sorarım",
+        "İkisine sırayla bağlanıp denerim"
+      ],
+      "dogru": 2,
+      "aciklama": "Sahte ağlar gerçek ağın adını taklit eder ve çoğu zaman daha güçlü sinyal verir."
+    },
+    {
+      "id": "wifi-3",
+      "konu": "wifi",
+      "soru": "Ortak Wi-Fi'ye bağlıyken banka işlemi yapmanız gerekiyor. En güvenli seçenek hangisidir?",
+      "secenekler": [
+        "İşlemi hızlıca yapıp çıkmak",
+        "Mobil veriye geçip öyle yapmak",
+        "Tarayıcının gizli sekmesini kullanmak",
+        "Wi-Fi'yi kapatıp açmak"
+      ],
+      "dogru": 1,
+      "aciklama": "Mobil veri bağlantınız ortak ağdaki diğer kişilerle paylaşılmaz. Gizli sekme yalnızca geçmişi tutmaz, bağlantıyı korumaz."
+    },
+    {
+      "id": "wifi-4",
+      "konu": "wifi",
+      "soru": "Yeni bir modem kurduğunuzda ilk yapılması gereken hangisidir?",
+      "secenekler": [
+        "Varsayılan yönetici parolasını ve Wi-Fi parolasını değiştirmek",
+        "Modemi pencere kenarına koymak",
+        "Ağ adını gizlemek",
+        "Işıklarını kapatmak"
+      ],
+      "dogru": 0,
+      "aciklama": "Fabrika çıkışı yönetici parolaları çoğu zaman herkesçe bilinir ve modemin tüm ayarlarına erişim verir."
+    },
+    {
+      "id": "wifi-5",
+      "konu": "wifi",
+      "soru": "Telefonun bilinen ağlara kendiliğinden bağlanmasının riski nedir?",
+      "secenekler": [
+        "Kota çabuk dolar",
+        "Aynı adı taşıyan sahte bir ağa farkında olmadan bağlanabilir",
+        "Telefon ısınır",
+        "Bluetooth kapanır"
+      ],
+      "dogru": 1,
+      "aciklama": "Kullanmadığınız kayıtlı ağları silmek ve açık ağlara otomatik bağlanmayı kapatmak bu riski azaltır."
+    },
+    {
+      "id": "wifi-6",
+      "konu": "wifi",
+      "soru": "VPN için hangisi doğrudur?",
+      "secenekler": [
+        "Sahte sitelere bilgi girmenizi engeller",
+        "Cihazınızı virüslerden korur",
+        "Cihazınızla VPN sunucusu arasındaki trafiği şifreler",
+        "İnterneti hızlandırır"
+      ],
+      "dogru": 2,
+      "aciklama": "VPN ortak ağlarda yararlıdır ama oltalamaya ve zararlı yazılıma karşı tek başına koruma sağlamaz."
+    },
+    {
+      "id": "telefon-1",
+      "konu": "telefon",
+      "soru": "Uygulamaları nereden kurmak en güvenlisidir?",
+      "secenekler": [
+        "Mesajla gelen bağlantıdan",
+        "Resmî uygulama mağazasından",
+        "Arama sonuçlarındaki ilk siteden",
+        "Arkadaşın gönderdiği dosyadan"
+      ],
+      "dogru": 1,
+      "aciklama": "Resmî mağazalar uygulamaları denetler; kusursuz değildir ama mağaza dışı kurulum çok daha risklidir."
+    },
+    {
+      "id": "telefon-2",
+      "konu": "telefon",
+      "soru": "Bir el feneri uygulaması rehberinize ve mesajlarınıza erişim istiyor. Ne yaparsınız?",
+      "secenekler": [
+        "İzin veririm; her uygulama ister",
+        "İzin vermem; bu izinlerin işle ilgisi yok",
+        "Yalnızca rehbere izin veririm",
+        "İzin verir, sonra unuturum"
+      ],
+      "dogru": 1,
+      "aciklama": "İstenen izin, uygulamanın yaptığı işle uyumlu olmalıdır. Uyumsuzluk açık bir uyarı işaretidir."
+    },
+    {
+      "id": "telefon-3",
+      "konu": "telefon",
+      "soru": "Yazılım güncellemeleri neden önemlidir?",
+      "secenekler": [
+        "Yalnızca görünümü yeniler",
+        "Depolama alanı açar",
+        "Bilinen güvenlik açıklarını kapatır",
+        "Pili uzatır"
+      ],
+      "dogru": 2,
+      "aciklama": "Bir açık duyurulduktan sonra güncellenmemiş cihazlar kolay hedef olur."
+    },
+    {
+      "id": "telefon-4",
+      "konu": "telefon",
+      "soru": "Telefon çalındığında zararı en çok azaltan hazırlık hangisidir?",
+      "secenekler": [
+        "Pahalı bir kılıf",
+        "Ekran kilidi, uzaktan bulma ve silme özelliği ve güncel bir yedek",
+        "Telefonun sessizde olması",
+        "İkinci bir SIM kart"
+      ],
+      "dogru": 1,
+      "aciklama": "Kilit verilerinizi korur, uzaktan silme hesaplarınızı korur, yedek de kaybettiklerinizi geri getirir."
+    },
+    {
+      "id": "telefon-5",
+      "konu": "telefon",
+      "soru": "SMS ile gelen bir bağlantı, bir uygulama dosyası indirip kurmanızı istiyor. Ne yaparsınız?",
+      "secenekler": [
+        "Kurarım; resmî bir kurumdan geliyor görünüyor",
+        "Kurmam; bu, zararlı yazılım bulaştırmanın yaygın yoludur",
+        "Kurup hemen silerim",
+        "Kurmadan önce telefonu yeniden başlatırım"
+      ],
+      "dogru": 1,
+      "aciklama": "Mağaza dışından kurulan zararlı uygulamalar mesajlarınızı ve doğrulama kodlarınızı okuyabilir."
+    },
+    {
+      "id": "telefon-6",
+      "konu": "telefon",
+      "soru": "Telefonunuzu satmadan önce ne yapmalısınız?",
+      "secenekler": [
+        "Fotoğrafları silmek yeterlidir",
+        "SIM kartı çıkarmak yeterlidir",
+        "Yedek alıp hesaplardan çıkmak ve fabrika ayarlarına sıfırlamak",
+        "Ekran kilidini kaldırmak"
+      ],
+      "dogru": 2,
+      "aciklama": "Yalnızca dosya silmek hesap oturumlarını ve uygulama verilerini temizlemez."
+    },
+    {
+      "id": "dolandiricilik-1",
+      "konu": "dolandiricilik",
+      "soru": "Kendini savcı olarak tanıtan biri arayıp hesabınızın suça karıştığını ve paranızı \"güvenli hesaba\" aktarmanız gerektiğini söylüyor. Ne yaparsınız?",
+      "secenekler": [
+        "Parayı aktarırım; soruşturma bitince geri alırım",
+        "Görüşmeyi kapatırım; resmî görevliler telefonda para istemez",
+        "Yarısını aktarırım",
+        "Kimlik numaramı verip beklerim"
+      ],
+      "dogru": 1,
+      "aciklama": "Hiçbir resmî görevli telefonla para, altın ya da kart bilgisi istemez. \"Güvenli hesap\" dolandırıcının hesabıdır."
+    },
+    {
+      "id": "dolandiricilik-2",
+      "konu": "dolandiricilik",
+      "soru": "Bir mesajlaşma grubunda kısa sürede kesin ve yüksek kazanç vaat eden bir yatırım öneriliyor. Hangisi doğrudur?",
+      "secenekler": [
+        "Erken girenler kazanır",
+        "Kazanç garantisi veren teklif güvenilir değildir",
+        "Grup kalabalıksa güvenilirdir",
+        "Küçük tutarla denemenin zararı olmaz"
+      ],
+      "dogru": 1,
+      "aciklama": "Gerçek yatırımda garanti olmaz. Bu gruplarda ilk küçük kazanç, daha büyük tutarı çekmek için gösterilir."
+    },
+    {
+      "id": "dolandiricilik-3",
+      "konu": "dolandiricilik",
+      "soru": "Katılmadığınız bir çekilişi kazandığınız ve ödül için önce bir ücret göndermeniz gerektiği bildiriliyor. Bu nedir?",
+      "secenekler": [
+        "Olağan bir kargo uygulaması",
+        "Vergi yükümlülüğü",
+        "Dolandırıcılık; ödül için önceden para istenmez",
+        "Şanslı bir gün"
+      ],
+      "dogru": 2,
+      "aciklama": "Katılmadığınız bir çekilişi kazanamazsınız. İstenen \"küçük ücret\" asıl amaçtır."
+    },
+    {
+      "id": "dolandiricilik-4",
+      "konu": "dolandiricilik",
+      "soru": "Dolandırıldıktan sonra biri arayıp ücret karşılığında paranızı geri alabileceğini söylüyor. Bu ne olabilir?",
+      "secenekler": [
+        "Bankanın hizmeti",
+        "İkinci bir dolandırıcılık girişimi",
+        "Resmî bir kurtarma programı",
+        "Sigorta ödemesi"
+      ],
+      "dogru": 1,
+      "aciklama": "Mağdurlar, zararlarını geri alma umuduyla ikinci kez hedef alınır. Başvuru yolu banka ve adli makamlardır."
+    },
+    {
+      "id": "dolandiricilik-5",
+      "konu": "dolandiricilik",
+      "soru": "Tanımadığınız biri hesabınıza \"yanlışlıkla\" para gönderdiğini söyleyip başka bir hesaba iade etmenizi istiyor. Ne yaparsınız?",
+      "secenekler": [
+        "Söylediği hesaba gönderirim",
+        "Parayı kendime saklarım",
+        "Bankama bildiririm; iadeyi banka yapsın",
+        "Yarısını gönderirim"
+      ],
+      "dogru": 2,
+      "aciklama": "Gelen para suç geliri olabilir ve sizi aracı durumuna düşürebilir. İade işlemini bankanın yapması sizi korur."
+    },
+    {
+      "id": "dolandiricilik-6",
+      "konu": "dolandiricilik",
+      "soru": "Biri, komisyon karşılığında banka hesabınızı ya da kartınızı kullanmak istiyor. Hangisi doğrudur?",
+      "secenekler": [
+        "Kolay bir ek gelirdir",
+        "Hesap benim olmadığı sürece sorumluluğum olmaz",
+        "Hesabımdan geçen paradan ben de sorumlu tutulabilirim",
+        "Banka zaten izin verir"
+      ],
+      "dogru": 2,
+      "aciklama": "Kiralanan hesaplar dolandırıcılık paralarını aktarmak için kullanılır; hesabın sahibi olarak karşılaşılan kişi siz olursunuz."
+    },
+    {
+      "id": "cocuk-1",
+      "konu": "cocuk",
+      "soru": "Çocuğun internette güvenliği için en etkili yaklaşım hangisidir?",
+      "secenekler": [
+        "İnterneti tümüyle yasaklamak",
+        "Açık iletişim ve yaşa uygun kurallar",
+        "Yalnızca bir filtre programı kurmak",
+        "Telefonunu gizlice denetlemek"
+      ],
+      "dogru": 1,
+      "aciklama": "Araçlar yardımcıdır, ama çocuğu asıl koruyan başına bir şey geldiğinde size anlatabilmesidir."
+    },
+    {
+      "id": "cocuk-2",
+      "konu": "cocuk",
+      "soru": "Çocuğunuz, oyunda tanıştığı birinin fotoğrafını ve adresini istediğini söylüyor. Ne yaparsınız?",
+      "secenekler": [
+        "Oyunu hemen yasaklar, kızarım",
+        "Sakin dinler, paylaşmaması gerektiğini anlatır, hesabı engeller ve bildiririm",
+        "Önemsemem; çocuklar arasında olur",
+        "Çocuğun telefonunu elinden alırım"
+      ],
+      "dogru": 1,
+      "aciklama": "Size anlattığı için onu ödüllendirin. Ceza, bir sonraki olayı saklamasına yol açar."
+    },
+    {
+      "id": "cocuk-3",
+      "konu": "cocuk",
+      "soru": "Ebeveyn denetimi araçları için hangisi doğrudur?",
+      "secenekler": [
+        "Kurulduktan sonra başka bir şey yapmaya gerek kalmaz",
+        "Yararlıdır ama konuşmanın ve kuralların yerini tutmaz",
+        "Çocuklara zarar verir",
+        "Yalnızca bilgisayarda çalışır"
+      ],
+      "dogru": 1,
+      "aciklama": "Filtreler her şeyi yakalayamaz ve çocuk her zaman sizin ayarladığınız cihazı kullanmaz."
+    },
+    {
+      "id": "cocuk-4",
+      "konu": "cocuk",
+      "soru": "Çocuğunuz siber zorbalığa uğruyor. İlk adımlar hangisidir?",
+      "secenekler": [
+        "Karşılık vermesini söylemek",
+        "Mesajları silip unutmak",
+        "Kanıtları saklamak, hesabı engellemek, platforma ve gerekirse okula bildirmek",
+        "Çocuğun hesabını kapatmak"
+      ],
+      "dogru": 2,
+      "aciklama": "Ekran görüntüleri sonradan gerekebilir. Çocuğa bunun onun suçu olmadığını söylemek de bir o kadar önemlidir."
+    },
+    {
+      "id": "cocuk-5",
+      "konu": "cocuk",
+      "soru": "Çocuğunuzun fotoğrafını paylaşırken nelere dikkat etmelisiniz?",
+      "secenekler": [
+        "Fotoğrafın net olmasına",
+        "Okul forması, konum ve ad gibi kimliğini ve yerini belli eden ayrıntıların görünmemesine",
+        "Çok beğeni almasına",
+        "Paylaşım saatine"
+      ],
+      "dogru": 1,
+      "aciklama": "Bu ayrıntılar bir yabancının çocuğa adıyla yaklaşmasını ve onu bulmasını kolaylaştırır."
+    },
+    {
+      "id": "cocuk-6",
+      "konu": "cocuk",
+      "soru": "Çocuğunuz internette bir hata yaptığını size anlattı. Cezalandırırsanız ne olur?",
+      "secenekler": [
+        "Bir daha hata yapmaz",
+        "Büyük olasılıkla bir dahaki sefere saklar",
+        "İnternete ilgisi azalır",
+        "Bir şey değişmez"
+      ],
+      "dogru": 1,
+      "aciklama": "Amaç, çocuğun sorun çıktığında ilk size gelmesidir. Bu alışkanlık cezayla bozulur."
+    }
+  ],
+  "senaryolar": [
+    {
+      "id": "kargo-sms",
+      "kisisel": {
+        "metin": "Sayın {ad}, {sehir} aktarma merkezimizdeki kargonuz adres eksikliği nedeniyle teslim edilemedi. 24 saat içinde güncellemezseniz iade edilecektir: http://ornekkargo-teslimat.example/adres",
+        "isaretler": [
+          {"parca": "Sayın {ad}", "aciklama": "Adınızı ve şehrinizi bilmesi iletiyi gerçek yapmaz; bu bilgiler veri sızıntılarından elde edilebilir."},
+          {"parca": "05XX XXX 12 34", "aciklama": "Kurumsal bir başlık yerine sıradan bir cep numarasından geliyor."},
+          {"parca": "24 saat içinde", "aciklama": "Süre baskısı, düşünmeden hareket etmeniz içindir."},
+          {"parca": "http://ornekkargo-teslimat.example/adres", "aciklama": "Kargo şirketinin kendi adresi değil; adına benzetilmiş ayrı bir site."}
+        ]
+      },
+      "konu": "oltalama",
+      "tur": "sms",
+      "durum": "Şu sıralar bir kargo beklemiyorsunuz.",
+      "gonderen": "05XX XXX 12 34",
+      "metin": "Sayın müşterimiz, kargonuz adres eksikliği nedeniyle teslim edilemedi. 24 saat içinde güncellemezseniz iade edilecektir: http://ornekkargo-teslimat.example/adres",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "05XX XXX 12 34", "aciklama": "Kurumsal bir başlık yerine sıradan bir cep numarasından geliyor."},
+        {"parca": "24 saat içinde", "aciklama": "Süre baskısı, düşünmeden hareket etmeniz içindir."},
+        {"parca": "http://ornekkargo-teslimat.example/adres", "aciklama": "Kargo şirketinin kendi adresi değil; adına benzetilmiş ayrı bir site."}
+      ],
+      "aciklama": "Beklemediğiniz bir kargo için gelen bağlantı, kart bilgisi isteyen sahte bir sayfaya götürür. Kargonuzu şirketin kendi uygulamasından takip edin."
+    },
+    {
+      "id": "harcama-sms",
+      "konu": "alisveris",
+      "tur": "sms",
+      "durum": "Bugün markette bu tutarda alışveriş yaptınız.",
+      "gonderen": "ORNEKBANKA",
+      "metin": "1234 ile biten kartınızdan 250,00 TL harcama yapılmıştır. Bilginiz dışındaysa kartınızın arkasındaki numaradan bize ulaşın.",
+      "tuzak": false,
+      "isaretler": [
+        {"parca": "250,00 TL", "aciklama": "Tutar, sizin yaptığınız işlemle örtüşüyor."},
+        {"parca": "kartınızın arkasındaki numaradan", "aciklama": "Bağlantı ya da yeni bir numara vermiyor; sizi zaten elinizde olan resmî numaraya yönlendiriyor."}
+      ],
+      "aciklama": "İleti sizden hiçbir şey istemiyor ve bağlantı içermiyor. Yine de unutmayın: gönderen başlığı taklit edilebilir; güven veren, iletinin sizden ne istediğidir."
+    },
+    {
+      "id": "bloke-sms",
+      "kisisel": {
+        "metin": "Sayın {ad}, hesabınızda {sehir} dışından şüpheli işlem tespit edildi. Hesabınızın bloke olmaması için hemen doğrulayın: https://ornekbanka.example.guvenlik-dogrula.example/giris",
+        "isaretler": [
+          {"parca": "Sayın {ad}", "aciklama": "Adınızla seslenmesi bankadan geldiğini göstermez."},
+          {"parca": "{sehir} dışından", "aciklama": "Şehrinizi bilmesi inandırıcılık içindir; bu bilgi sızıntılardan ya da sosyal medyadan alınabilir."},
+          {"parca": "hemen", "aciklama": "Aciliyet ve bloke tehdidi birlikte kullanılıyor."},
+          {"parca": "guvenlik-dogrula.example", "aciklama": "Asıl alan adı budur. Önündeki \"ornekbanka.example\" yalnızca göz boyamak için eklenmiş bir alt addır."}
+        ]
+      },
+      "konu": "oltalama",
+      "tur": "sms",
+      "durum": "Örnek Banka'nın gerçek adresi ornekbanka.example.",
+      "gonderen": "ORNEKBANKA",
+      "metin": "Hesabınızda şüpheli işlem tespit edildi. Hesabınızın bloke olmaması için hemen doğrulayın: https://ornekbanka.example.guvenlik-dogrula.example/giris",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "hemen", "aciklama": "Aciliyet ve bloke tehdidi birlikte kullanılıyor."},
+        {"parca": "guvenlik-dogrula.example", "aciklama": "Asıl alan adı budur. Önündeki \"ornekbanka.example\" yalnızca göz boyamak için eklenmiş bir alt addır."}
+      ],
+      "aciklama": "Gönderen başlığı bankanın adını taşısa da bağlantı bankaya gitmiyor. SMS başlıkları taklit edilebilir; adresi sondan başa doğru okuyun."
+    },
+    {
+      "id": "fatura-eposta",
+      "kisisel": {
+        "metin": "Sayın {ad}, {sehir} ilindeki aboneliğinize ait ödenmemiş fatura nedeniyle elektriğiniz bugün kesilecektir. Ayrıntılar ekteki dosyadadır: fatura_ekim.zip",
+        "isaretler": [
+          {"parca": "ornek-elektrlk.example", "aciklama": "Alan adında bir harf değiştirilmiş: \"elektrik\" yerine \"elektrlk\"."},
+          {"parca": "Sayın {ad}, {sehir} ilindeki", "aciklama": "Adınızı ve ilinizi doğru yazması iletiyi gerçek yapmaz; gönderenin adresi hâlâ sahte."},
+          {"parca": "kesilecek", "aciklama": "Tehdit ve aciliyet."},
+          {"parca": "fatura_ekim.zip", "aciklama": "Fatura sıkıştırılmış dosya olarak gönderilmez; bu ekler zararlı yazılım taşır."}
+        ]
+      },
+      "konu": "oltalama",
+      "tur": "eposta",
+      "durum": "Elektrik aboneliğiniz var; faturalarınızı şirketin uygulamasından ödüyorsunuz.",
+      "gonderen": "Örnek Elektrik <fatura@ornek-elektrlk.example>",
+      "baslik": "Son uyarı: elektriğiniz kesilecek",
+      "metin": "Sayın abone, ödenmemiş faturanız nedeniyle elektriğiniz bugün kesilecektir. Ayrıntılar ekteki dosyadadır: fatura_ekim.zip",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "ornek-elektrlk.example", "aciklama": "Alan adında bir harf değiştirilmiş: \"elektrik\" yerine \"elektrlk\"."},
+        {"parca": "Sayın abone", "aciklama": "Gerçek şirket adınızı bilir; genel hitap toplu gönderimin işaretidir."},
+        {"parca": "kesilecek", "aciklama": "Tehdit ve aciliyet."},
+        {"parca": "fatura_ekim.zip", "aciklama": "Fatura sıkıştırılmış dosya olarak gönderilmez; bu ekler zararlı yazılım taşır."}
+      ],
+      "aciklama": "Borcunuz olup olmadığını şirketin uygulamasından denetleyebilirsiniz. Eki açmayın."
+    },
+    {
+      "id": "bulten-eposta",
+      "kisisel": {
+        "metin": "Merhaba {ad}, bu ay raflara giren kitapları sizin için derledik. Bülteni almak istemezseniz hesabınızdaki bildirim ayarlarından çıkabilirsiniz.",
+        "isaretler": [
+          {"parca": "ornekkitabevi.example", "aciklama": "Gönderen adresi, bildiğiniz gerçek alan adıyla aynı."},
+          {"parca": "Merhaba {ad}", "aciklama": "Size adınızla sesleniyor; ama asıl güven veren bu değil, sizden hiçbir şey istememesi."},
+          {"parca": "hesabınızdaki bildirim ayarlarından", "aciklama": "Sizi bir bağlantıya değil, kendi hesabınıza yönlendiriyor."}
+        ]
+      },
+      "konu": "oltalama",
+      "tur": "eposta",
+      "durum": "Bu kitabevinin bültenine kendiniz üye oldunuz; gerçek adresi ornekkitabevi.example.",
+      "gonderen": "Örnek Kitabevi <bulten@ornekkitabevi.example>",
+      "baslik": "Ekim ayında yeni çıkanlar",
+      "metin": "Merhaba Ayşe, bu ay raflara giren kitapları sizin için derledik. Bülteni almak istemezseniz hesabınızdaki bildirim ayarlarından çıkabilirsiniz.",
+      "tuzak": false,
+      "isaretler": [
+        {"parca": "ornekkitabevi.example", "aciklama": "Gönderen adresi, bildiğiniz gerçek alan adıyla aynı."},
+        {"parca": "Merhaba Ayşe", "aciklama": "Size adınızla sesleniyor."},
+        {"parca": "hesabınızdaki bildirim ayarlarından", "aciklama": "Sizi bir bağlantıya değil, kendi hesabınıza yönlendiriyor."}
+      ],
+      "aciklama": "Beklediğiniz, sizden bilgi istemeyen ve acele ettirmeyen bir ileti. Her e-posta tuzak değildir; önemli olan işaretleri okuyabilmektir."
+    },
+    {
+      "id": "savci-arama",
+      "kisisel": {
+        "metin": "{ad}, ben Cumhuriyet savcısıyım. {sehir} ilinde adınıza açılan bir hesap dolandırıcılık şebekesi tarafından kullanılmış. Soruşturma gizlidir, kimseye söylemeyin. Paranızı korumak için birazdan vereceğim güvenli hesaba aktarın.",
+        "isaretler": [
+          {"parca": "{sehir} ilinde adınıza açılan bir hesap", "aciklama": "Adınızı ve ilinizi bilmesi resmî görevli olduğunu göstermez; bu bilgiler sızıntılardan elde edilebilir."},
+          {"parca": "kimseye söylemeyin", "aciklama": "Gizlilik isteği, bir yakınınıza danışmanızı önlemek içindir."},
+          {"parca": "güvenli hesaba aktarın", "aciklama": "Resmî görevliler telefonda para istemez. \"Güvenli hesap\" dolandırıcının hesabıdır."}
+        ]
+      },
+      "konu": "dolandiricilik",
+      "tur": "arama",
+      "gonderen": "Bilinmeyen numara",
+      "metin": "Ben Cumhuriyet savcısıyım. Kimlik bilgileriniz bir dolandırıcılık şebekesi tarafından kullanılmış. Soruşturma gizlidir, kimseye söylemeyin. Paranızı korumak için birazdan vereceğim güvenli hesaba aktarın.",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "kimseye söylemeyin", "aciklama": "Gizlilik isteği, bir yakınınıza danışmanızı önlemek içindir."},
+        {"parca": "güvenli hesaba aktarın", "aciklama": "Resmî görevliler telefonda para istemez. \"Güvenli hesap\" dolandırıcının hesabıdır."}
+      ],
+      "aciklama": "Bu, en yaygın telefon dolandırıcılığıdır. Görüşmeyi kapatın; şüpheniz varsa 112'yi siz arayın."
+    },
+    {
+      "id": "kod-arama",
+      "kisisel": {
+        "metin": "Merhaba {ad}, Örnek Banka güvenlik biriminden arıyorum. Kartınızdan şu an {sehir} dışında 18.500 TL tutarında bir işlem yapılıyor. İptal edebilmem için telefonunuza gelen kodu okur musunuz?",
+        "isaretler": [
+          {"parca": "Merhaba {ad}", "aciklama": "Adınızı bilmesi bankadan aradığını göstermez."},
+          {"parca": "şu an {sehir} dışında", "aciklama": "Panik yaratmak için işlem o anda, sizin bulunmadığınız bir yerde oluyormuş gibi anlatılıyor."},
+          {"parca": "telefonunuza gelen kodu okur musunuz", "aciklama": "Kod işlemi iptal etmez, onaylar. Banka çalışanı bu kodu istemez."}
+        ]
+      },
+      "konu": "sosyal-muhendislik",
+      "tur": "arama",
+      "gonderen": "Bilinmeyen numara",
+      "metin": "Örnek Banka güvenlik biriminden arıyorum. Kartınızdan şu an 18.500 TL tutarında bir işlem yapılıyor. İptal edebilmem için telefonunuza gelen kodu okur musunuz?",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "şu an", "aciklama": "Panik yaratmak için işlem o anda oluyormuş gibi anlatılıyor."},
+        {"parca": "telefonunuza gelen kodu okur musunuz", "aciklama": "Kod işlemi iptal etmez, onaylar. Banka çalışanı bu kodu istemez."}
+      ],
+      "aciklama": "İşlemi başlatan, arayan kişinin kendisidir; sizden istediği kod onun onayıdır. Kapatın ve kartınızın arkasındaki numarayı arayın."
+    },
+    {
+      "id": "geri-arama",
+      "kisisel": {
+        "metin": "Merhaba {ad}, dünkü kart başvurunuzla ilgili arıyorum. Başvurunuz onaylandı, kartınız kayıtlı adresinize gönderilecek. Sizden herhangi bir şifre ya da kod istemeyeceğim. Sorunuz olursa kartın arkasındaki numaradan bize ulaşabilirsiniz.",
+        "isaretler": [
+          {"parca": "dünkü kart başvurunuzla ilgili", "aciklama": "Sizin başlattığınız ve beklediğiniz bir işlemle ilgili."},
+          {"parca": "herhangi bir şifre ya da kod istemeyeceğim", "aciklama": "Sizden bilgi, kod ya da para istemiyor. Güven veren budur; adınızı bilmesi değil."}
+        ]
+      },
+      "konu": "sosyal-muhendislik",
+      "tur": "arama",
+      "durum": "Dün bankanızın çağrı merkezini kendiniz arayıp kart başvurusu yaptınız ve geri aranmayı istediniz.",
+      "gonderen": "Örnek Banka çağrı merkezi",
+      "metin": "Dünkü kart başvurunuzla ilgili arıyorum. Başvurunuz onaylandı, kartınız kayıtlı adresinize gönderilecek. Sizden herhangi bir şifre ya da kod istemeyeceğim. Sorunuz olursa kartın arkasındaki numaradan bize ulaşabilirsiniz.",
+      "tuzak": false,
+      "isaretler": [
+        {"parca": "Dünkü kart başvurunuzla ilgili", "aciklama": "Sizin başlattığınız ve beklediğiniz bir işlemle ilgili."},
+        {"parca": "herhangi bir şifre ya da kod istemeyeceğim", "aciklama": "Sizden bilgi, kod ya da para istemiyor."}
+      ],
+      "aciklama": "Beklenen, bilgi vermekle yetinen bir arama. Görüşmenin herhangi bir yerinde kod ya da parola istenseydi durum değişirdi."
+    },
+    {
+      "id": "alt-ad-adres",
+      "konu": "oltalama",
+      "tur": "adres",
+      "durum": "Örnek Banka'ya girmek istiyorsunuz. Gerçek adresi ornekbanka.example.",
+      "metin": "https://ornekbanka.example.hesap-giris.example/login",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "hesap-giris.example", "aciklama": "İlk eğik çizgiden önceki son bölüm asıl alan adıdır; banka değil."}
+      ],
+      "aciklama": "Bankanın adı adresin başında geçiyor ama asıl site \"hesap-giris.example\". Öndeki bölüm yalnızca bir alt addır ve istenildiği gibi yazılabilir."
+    },
+    {
+      "id": "gercek-adres",
+      "konu": "oltalama",
+      "tur": "adres",
+      "durum": "Örnek Banka'ya girmek istiyorsunuz. Gerçek adresi ornekbanka.example.",
+      "metin": "https://www.ornekbanka.example/bireysel/giris",
+      "tuzak": false,
+      "isaretler": [
+        {"parca": "ornekbanka.example", "aciklama": "İlk eğik çizgiden önceki alan adı, bankanın gerçek adresiyle aynı."}
+      ],
+      "aciklama": "Alan adı doğru. Eğik çizgiden sonraki bölüm yalnızca sitenin içindeki sayfayı gösterir."
+    },
+    {
+      "id": "benzer-adres",
+      "konu": "oltalama",
+      "tur": "adres",
+      "durum": "Örnek Banka'ya girmek istiyorsunuz. Gerçek adresi ornekbanka.example.",
+      "metin": "https://www.ornekbanlka.example/giris",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "ornekbanlka", "aciklama": "Araya bir \"l\" eklenmiş. Hızlı okurken göz bunu düzeltir."}
+      ],
+      "aciklama": "Tek harfle değiştirilmiş adresler en zor fark edilenlerdir. Bankanızın adresini yer imlerine kaydedip oradan açmak bu tuzağı boşa çıkarır."
+    },
+    {
+      "id": "sube-adres",
+      "konu": "oltalama",
+      "tur": "adres",
+      "durum": "Örnek Banka'dan randevu almak istiyorsunuz. Gerçek adresi ornekbanka.example.",
+      "metin": "https://sube.ornekbanka.example/randevu",
+      "tuzak": false,
+      "isaretler": [
+        {"parca": "ornekbanka.example", "aciklama": "Asıl alan adı bankanın. Öndeki \"sube\" bankanın kendi alt adıdır."}
+      ],
+      "aciklama": "Alt adlar asıl alan adının önüne yazılır. Asıl alan adı doğru olduğu sürece önündeki bölüm o kuruma aittir."
+    },
+    {
+      "id": "at-adres",
+      "konu": "oltalama",
+      "tur": "adres",
+      "durum": "Örnek Banka'ya girmek istiyorsunuz. Gerçek adresi ornekbanka.example.",
+      "metin": "http://ornekbanka.example@198.51.100.7/giris",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "@198.51.100.7", "aciklama": "@ işaretinden önceki bölüm adres değildir; tarayıcı @ işaretinden sonraki sayıya gider."},
+        {"parca": "http://", "aciklama": "Bağlantı şifreli bile değil."}
+      ],
+      "aciklama": "Adreste @ işareti ya da alan adı yerine yalın sayılar görürseniz durun; bir banka bu biçimde adres kullanmaz."
+    },
+    {
+      "id": "kod-mesaj",
+      "konu": "iki-adim",
+      "tur": "sms",
+      "durum": "Az önce telefonunuza, sizin istemediğiniz bir doğrulama kodu geldi.",
+      "gonderen": "Mehmet (rehberinizde kayıtlı)",
+      "metin": "Selam, yanlışlıkla senin numarana 6 haneli bir kod göndermişim. Bana iletebilir misin, acil lazım.",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "6 haneli bir kod", "aciklama": "Telefonunuza gelen kod sizin hesabınıza aittir; başkasının işine yaramaz."},
+        {"parca": "acil", "aciklama": "Düşünmeden iletmeniz için."}
+      ],
+      "aciklama": "Kodu iletirseniz mesajlaşma hesabınız ele geçirilir. Arkadaşınızın hesabı da büyük olasılıkla çalınmıştır; onu arayarak haber verin."
+    },
+    {
+      "id": "cekilis-sms",
+      "konu": "dolandiricilik",
+      "tur": "sms",
+      "durum": "Herhangi bir çekilişe katılmadınız.",
+      "gonderen": "05XX XXX 98 76",
+      "metin": "TEBRİKLER! Çekilişimizde 50.000 TL değerinde hediye çeki kazandınız. Ödülünüzü almak için 149 TL kargo ücretini yatırın: http://hediye-kazan.example",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "kazandınız", "aciklama": "Katılmadığınız bir çekilişi kazanamazsınız."},
+        {"parca": "149 TL kargo ücretini yatırın", "aciklama": "Ödül için önceden para istenmesi dolandırıcılığın imzasıdır."},
+        {"parca": "http://hediye-kazan.example", "aciklama": "Tanınan bir kuruma ait olmayan bir adres."}
+      ],
+      "aciklama": "İstenen küçük ücretle birlikte kart bilgileriniz de alınır."
+    },
+    {
+      "id": "odeme-kodu-sms",
+      "konu": "iki-adim",
+      "tur": "sms",
+      "durum": "Şu anda Örnek Mağaza'nın sitesinde 349,90 TL'lik bir ödeme yapıyorsunuz ve ekran sizden doğrulama kodu bekliyor.",
+      "gonderen": "ORNEKBANKA",
+      "metin": "Örnek Mağaza'da 349,90 TL tutarındaki işleminiz için doğrulama kodunuz: 482913. Bu kodu kimseyle paylaşmayın.",
+      "tuzak": false,
+      "isaretler": [
+        {"parca": "Örnek Mağaza'da 349,90 TL", "aciklama": "Mağaza ve tutar, o anda yaptığınız işlemle birebir aynı."},
+        {"parca": "Bu kodu kimseyle paylaşmayın", "aciklama": "Kodu yalnızca kendi başlattığınız ödeme ekranına yazarsınız."}
+      ],
+      "aciklama": "Kendi başlattığınız işlem için gelen kod güvenlidir. Kod gelmeden önce tutarı ve mağazayı her seferinde okumak, başkasının başlattığı bir işlemi onaylamanızı önler."
+    },
+    {
+      "id": "is-eposta",
+      "konu": "dolandiricilik",
+      "tur": "eposta",
+      "durum": "Bu şirkete iş başvurusu yapmadınız.",
+      "gonderen": "İK Departmanı <kariyer.ornekholding@eposta-servisi.example>",
+      "baslik": "Evden çalışma: günde 2 saat, haftalık 15.000 TL",
+      "metin": "Başvurunuz olumlu değerlendirildi. Başlamak için kimlik fotoğrafınızı ve banka hesap bilgilerinizi gönderin. Hesabınıza gelen ödemeleri bildireceğimiz hesaplara aktarmanız yeterli olacaktır.",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "eposta-servisi.example", "aciklama": "Şirketin kendi alan adından değil, genel bir e-posta hizmetinden gönderilmiş."},
+        {"parca": "haftalık 15.000 TL", "aciklama": "Çok az iş için çok yüksek ücret."},
+        {"parca": "kimlik fotoğrafınızı ve banka hesap bilgilerinizi", "aciklama": "İşe başlamadan kimlik ve hesap bilgisi isteniyor."},
+        {"parca": "bildireceğimiz hesaplara aktarmanız", "aciklama": "\"İş\", başkalarının parasını hesabınızdan geçirmek. Bu, suç gelirinin aktarılmasıdır."}
+      ],
+      "aciklama": "Bu bir iş değil, hesabınızın suç gelirlerini aktarmak için kullanılmasıdır. Sorumluluğu hesabın sahibi olarak siz taşırsınız."
+    },
+    {
+      "id": "sifirlama-eposta",
+      "konu": "parola",
+      "tur": "eposta",
+      "durum": "Bir dakika önce Örnek Posta hesabınız için \"parolamı unuttum\" düğmesine siz bastınız. Gerçek adresi ornekposta.example.",
+      "gonderen": "Örnek Posta <hesap@ornekposta.example>",
+      "baslik": "Parola sıfırlama isteğiniz",
+      "metin": "Parolanızı sıfırlamak için şu adresi açın: https://hesap.ornekposta.example/sifirla Bu isteği siz yapmadıysanız bu iletiyi yok sayın; parolanız değişmez.",
+      "tuzak": false,
+      "isaretler": [
+        {"parca": "hesap@ornekposta.example", "aciklama": "Gönderenin alan adı, bildiğiniz gerçek adresle aynı."},
+        {"parca": "https://hesap.ornekposta.example/sifirla", "aciklama": "Bağlantının asıl alan adı da aynı; \"hesap\" yalnızca alt ad."},
+        {"parca": "bu iletiyi yok sayın", "aciklama": "Tehdit ya da süre baskısı yok."}
+      ],
+      "aciklama": "İsteği siz başlattınız, ileti hemen geldi ve alan adları tutuyor. Aynı ileti siz bir şey istemeden gelseydi yok sayıp parolanızı gözden geçirmeniz gerekirdi."
+    },
+    {
+      "id": "kota-eposta",
+      "konu": "oltalama",
+      "tur": "eposta",
+      "durum": "Hiçbir istekte bulunmadınız. Örnek Posta'nın gerçek adresi ornekposta.example.",
+      "gonderen": "Örnek Posta Destek <destek@ornekposta-guvenlik.example>",
+      "baslik": "Hesabınız 24 saat içinde silinecek",
+      "metin": "Posta kutunuz doldu. Hesabınızın silinmemesi için parolanızı doğrulayın: https://ornekposta-guvenlik.example/dogrula",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "ornekposta-guvenlik.example", "aciklama": "Gerçek adrese kelime eklenerek türetilmiş ayrı bir alan adı."},
+        {"parca": "24 saat içinde silinecek", "aciklama": "Süre baskısı ve kayıp tehdidi."},
+        {"parca": "parolanızı doğrulayın", "aciklama": "Hiçbir hizmet parolanızı \"doğrulamak\" için bir bağlantıya yazmanızı istemez."}
+      ],
+      "aciklama": "Tire ile eklenen \"guvenlik\" kelimesi adresi resmî gösterir ama onu bambaşka bir alan adı yapar."
+    },
+    {
+      "id": "apk-sms",
+      "kisisel": {
+        "metin": "Sayın {ad}, adınıza kayıtlı 2.340 TL gecikmiş borç bulunmaktadır. İcra işlemi başlamadan görüntülemek için uygulamayı indirin: http://borc-sorgu.example/borc.apk",
+        "isaretler": [
+          {"parca": "Sayın {ad}", "aciklama": "Adınızı bilmesi iletinin resmî bir kurumdan geldiğini göstermez."},
+          {"parca": "İcra işlemi başlamadan", "aciklama": "Korkutma ve aciliyet."},
+          {"parca": "http://borc-sorgu.example/borc.apk", "aciklama": "Mağaza dışından kurulacak bir uygulama dosyası. Bu tür uygulamalar mesajlarınızı ve doğrulama kodlarınızı okuyabilir."}
+        ]
+      },
+      "konu": "telefon",
+      "tur": "sms",
+      "gonderen": "05XX XXX 45 67",
+      "metin": "Adınıza kayıtlı 2.340 TL gecikmiş borç bulunmaktadır. İcra işlemi başlamadan görüntülemek için uygulamayı indirin: http://borc-sorgu.example/borc.apk",
+      "tuzak": true,
+      "isaretler": [
+        {"parca": "İcra işlemi başlamadan", "aciklama": "Korkutma ve aciliyet."},
+        {"parca": "http://borc-sorgu.example/borc.apk", "aciklama": "Mağaza dışından kurulacak bir uygulama dosyası. Bu tür uygulamalar mesajlarınızı ve doğrulama kodlarınızı okuyabilir."}
+      ],
+      "aciklama": "Resmî kurumlar borç bildirimi için mesajla uygulama dosyası göndermez. Borcunuzu kurumun kendi sitesinden ya da resmî uygulamasından sorgulayın."
+    }
+  ],
+  "listeler": [
+    {
+      "id": "telefon",
+      "baslik": "Telefonum",
+      "ikon": "telefon",
+      "renk": "kahve",
+      "maddeler": [
+        {"id": "kilit", "metin": "Ekran kilidi açık (PIN, parmak izi ya da yüz tanıma)."},
+        {"id": "guncel", "metin": "İşletim sistemi ve uygulamalar güncel; otomatik güncelleme açık."},
+        {"id": "bul", "metin": "Uzaktan bulma ve silme özelliği açık."},
+        {"id": "yedek", "metin": "Fotoğraf ve dosyalarımın güncel bir yedeği var."},
+        {"id": "izinler", "metin": "Uygulama izinlerini gözden geçirdim; gereksiz olanları kapattım."},
+        {"id": "magaza", "metin": "Mağaza dışından kurduğum uygulama yok."},
+        {"id": "sim", "metin": "SIM kartımda PIN kilidi açık."}
+      ]
+    },
+    {
+      "id": "eposta",
+      "baslik": "E-posta hesabım",
+      "ikon": "eposta",
+      "renk": "mavi",
+      "maddeler": [
+        {"id": "parola", "metin": "Başka hiçbir yerde kullanmadığım uzun bir parolası var."},
+        {"id": "iki-adim", "metin": "İki adımlı doğrulama açık."},
+        {"id": "yedek-kod", "metin": "Yedek kodlarımı güvenli bir yere kaydettim."},
+        {"id": "kurtarma", "metin": "Kurtarma telefonu ve e-posta adresi güncel."},
+        {"id": "oturum", "metin": "Açık oturumları ve bağlı cihazları denetledim; tanımadıklarımı kapattım."},
+        {"id": "yonlendirme", "metin": "Benim kurmadığım bir yönlendirme ya da süzgeç kuralı yok."}
+      ]
+    },
+    {
+      "id": "sosyal",
+      "baslik": "Sosyal medya hesaplarım",
+      "ikon": "sosyal",
+      "renk": "pembe",
+      "maddeler": [
+        {"id": "parola", "metin": "Her hesabın ayrı bir parolası var."},
+        {"id": "iki-adim", "metin": "İki adımlı doğrulama açık."},
+        {"id": "gizlilik", "metin": "Gizlilik ayarlarını gözden geçirdim; paylaşımlarımı kimin gördüğünü biliyorum."},
+        {"id": "uygulama", "metin": "Hesaba bağlı uygulamaları denetledim; kullanmadıklarımı kaldırdım."},
+        {"id": "konum", "metin": "Paylaşımlarımda anlık konum vermiyorum."},
+        {"id": "bilgi", "metin": "Profilimde telefon, adres, doğum tarihi gibi bilgiler herkese açık değil."}
+      ]
+    },
+    {
+      "id": "banka",
+      "baslik": "Banka ve kartlarım",
+      "ikon": "banka",
+      "renk": "yesil",
+      "maddeler": [
+        {"id": "bildirim", "metin": "Hesap ve kart hareketleri için anlık bildirimler açık."},
+        {"id": "sanal", "metin": "İnternet alışverişinde limiti sınırlı sanal kart kullanıyorum."},
+        {"id": "internet", "metin": "Kullanmadığım kartlarda internet alışverişi kapalı."},
+        {"id": "limit", "metin": "Günlük işlem limitlerim ihtiyacım kadar."},
+        {"id": "uygulama", "metin": "Bankacılık uygulamasını resmî mağazadan kurdum ve güncel tutuyorum."},
+        {"id": "numara", "metin": "Bankamın çağrı merkezi numarası rehberimde kayıtlı."}
+      ]
+    }
+  ],
+  "kanallar": {
+    "acil": {
+      "ad": "112 Acil Çağrı Merkezi",
+      "deger": "112",
+      "aciklama": "Polis ve jandarma imdat çağrıları 112'de toplanmıştır.",
+      "kaynak": "https://www.112.gov.tr/"
+    },
+    "siber": {
+      "ad": "EGM Siber Suçlarla Mücadele Daire Başkanlığı",
+      "deger": "https://www.egm.gov.tr/siber/",
+      "aciklama": "Şikâyet için en yakın polis merkezine ya da il emniyet müdürlüğüne başvurulur.",
+      "kaynak": "https://www.egm.gov.tr/siber/"
+    },
+    "ihbar": {
+      "ad": "BTK İnternet Bilgi İhbar Merkezi",
+      "deger": "https://www.ihbarweb.org.tr/",
+      "aciklama": "İnternetteki yasa dışı içeriklerin (çocukların cinsel istismarı, müstehcenlik, kumar gibi) ihbarı için.",
+      "kaynak": "https://internet.btk.gov.tr/turkiye-de-internet-hukuku"
+    },
+    "hat": {
+      "ad": "e-Devlet Mobil Hat Sorgulama (BTK)",
+      "deger": "https://www.turkiye.gov.tr/mobil-hat-sorgulama",
+      "aciklama": "Adınıza kayıtlı mobil hatları görmek için.",
+      "kaynak": "https://www.turkiye.gov.tr/mobil-hat-sorgulama"
+    }
+  },
+  "rehberler": [
+    {
+      "id": "hesap",
+      "baslik": "Hesabım ele geçirildi",
+      "ozet": "E-posta, sosyal medya ya da mesajlaşma hesabınıza başkası girdiyse.",
+      "ikon": "hesap",
+      "renk": "mor",
+      "adimlar": [
+        "Hâlâ girebiliyorsanız parolayı hemen değiştirin ve tüm cihazlardaki oturumları kapatın.",
+        "Giremiyorsanız hizmetin kendi sitesindeki \"hesabım ele geçirildi\" ya da \"parolamı unuttum\" yolunu kullanın. Adresi bir iletiden değil, kendiniz yazarak açın.",
+        "Hesaba bağlı kurtarma e-postası ve telefon numarasının sizin olduğunu denetleyin; tanımadığınız cihazları, bağlı uygulamaları ve yönlendirme kurallarını kaldırın.",
+        "İki adımlı doğrulamayı açın.",
+        "Aynı parolayı kullandığınız diğer hesaplardaki parolaları da değiştirin; e-posta hesabınızla başlayın.",
+        "Yakınlarınıza haber verin: hesabınızdan para ya da kod isteyen mesajlar gönderilmiş olabilir.",
+        "Hesabınız üzerinden bir suç işlendiyse ya da maddi zarar varsa kanıtları saklayıp şikâyette bulunun."
+      ],
+      "kanallar": ["siber", "hat"]
+    },
+    {
+      "id": "para",
+      "baslik": "Dolandırıldım, para gönderdim",
+      "ozet": "Bir dolandırıcıya havale, EFT ya da kartla ödeme yaptıysanız.",
+      "ikon": "para",
+      "renk": "kirmizi",
+      "adimlar": [
+        "Hemen bankanızı arayın. Numarayı kartınızın arkasından ya da bankanın uygulamasından alın; işlemin durdurulmasını ve itiraz kaydı açılmasını isteyin. Zaman çok önemlidir.",
+        "Dolandırıcıyla paylaştığınız kart ya da hesap bilgisi varsa kartı kapattırın, internet bankacılığı parolanızı değiştirin.",
+        "Kanıtları saklayın: dekont, mesajlar, e-postalar, telefon numaraları, hesap numaraları, ilan ve site adresleri, ekran görüntüleri. Hiçbir şeyi silmeyin.",
+        "En yakın polis merkezine, jandarma karakoluna ya da Cumhuriyet Başsavcılığına giderek şikâyette bulunun; kanıtları yanınızda götürün.",
+        "Dolandırıcıyla görüşmeyi kesin; yeni bir ödeme yapmayın.",
+        "Ücret karşılığında paranızı geri alacağını söyleyenlere inanmayın; bu ikinci bir dolandırıcılıktır."
+      ],
+      "kanallar": ["acil", "siber"]
+    },
+    {
+      "id": "kart",
+      "baslik": "Kart bilgilerim çalındı",
+      "ozet": "Kartınızda tanımadığınız işlem varsa ya da bilgilerinizi sahte bir siteye yazdıysanız.",
+      "ikon": "kart",
+      "renk": "turuncu",
+      "adimlar": [
+        "Bankanızın uygulamasından kartı hemen geçici olarak kapatın ya da bankayı arayıp kapattırın.",
+        "Bankadan tanımadığınız işlemler için itiraz kaydı açmasını ve yeni kart göndermesini isteyin.",
+        "Son hesap ve kart hareketlerinizin tümünü gözden geçirin; küçük tutarlı deneme işlemlerine dikkat edin.",
+        "Bilgileri bir siteye yazdıysanız internet bankacılığı parolanızı değiştirin ve o sitenin adresini kaydedin.",
+        "Zarar oluştuysa kanıtlarla birlikte en yakın polis merkezine, jandarma karakoluna ya da Cumhuriyet Başsavcılığına şikâyette bulunun.",
+        "Bundan sonrası için işlem bildirimlerini açın ve internet alışverişinde sanal kart kullanın."
+      ],
+      "kanallar": ["siber"]
+    },
+    {
+      "id": "santaj",
+      "baslik": "Tehdit ya da şantaj ediliyorum",
+      "ozet": "Biri özel görüntülerinizi ya da bilgilerinizi yaymakla tehdit ediyorsa.",
+      "ikon": "santaj",
+      "renk": "pembe",
+      "adimlar": [
+        "Para göndermeyin ve isteneni yapmayın. Ödeme tehdidi bitirmez; çoğu zaman yeni talepler gelir.",
+        "Görüşmeyi kesin, ama mesajları silmeyin. Hesap adlarını, mesajları, ödeme istenen hesap bilgilerini ekran görüntüsüyle kaydedin.",
+        "Kişiyi engelleyin ve bulunduğunuz platforma bildirin; hesaplarınızın gizlilik ayarlarını sıkılaştırın.",
+        "En yakın polis merkezine, jandarma karakoluna ya da Cumhuriyet Başsavcılığına şikâyette bulunun. Şantaj ve tehdit suçtur; utanmanız gereken bir durum yoktur.",
+        "Görüntüler yayımlandıysa yayımlandığı platforma kaldırma başvurusu yapın.",
+        "Güvendiğiniz bir yakınınıza anlatın. Mağdur bir çocuksa onu suçlamadan dinleyin ve başvuruyu siz yapın."
+      ],
+      "kanallar": ["acil", "siber", "ihbar"]
+    }
+  ]
+}
